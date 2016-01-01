@@ -1,2 +1,2 @@
 # first-test
-my first repo on git ggg 
+my firs repo on git ggg 
